@@ -11,6 +11,7 @@ The model is trained using **MobileNetV2** as a feature extractor and fine-tuned
 
 ## Dataset
 - **Source:** [Fashion Product Images Dataset - Kaggle](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset)
+- **Trained Model:** https://drive.google.com/file/d/14k1ifBlwHVOUI42voODcio30mnlRefS0/view?usp=sharing (Pickel File uploaded here)
 - **Data:** Contains images of fashion products and a CSV file (`styles.csv`) with labels for product type, color, season, and gender.
 
 ## Features
