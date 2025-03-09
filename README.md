@@ -85,11 +85,6 @@ curl -X POST "http://localhost:5000/predict" \
 - The model achieves **high accuracy** across all categories.
 - It can predict multiple attributes from a **single image input**.
 
-## Future Enhancements
-- **Improve Model Performance:** Fine-tune MobileNetV2 or switch to a transformer-based model.
-- **Deploy on Cloud:** Host API on AWS/GCP/Azure.
-- **Expand Dataset:** Use more diverse fashion datasets for better generalization.
-
 ## Contributors
 - **M Karthikeya Reddy** ([GitHub](https://github.com/karthikeyareddy183))
 
