@@ -1,5 +1,4 @@
 # Fashion-Product-Classifier
-# Fashion Product Attribute Prediction
 
 ## Overview
 This project builds and deploys a **deep learning model** to predict multiple attributes of fashion products, including:
