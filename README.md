@@ -96,5 +96,5 @@ curl -X POST "http://localhost:5000/predict" \
 This project is licensed under the MIT License. Feel free to contribute and improve it!
 
 ---
-🔗 **GitHub Repo:** [Insert Your GitHub Repo Link Here]
+🔗 **GitHub Repo:** [(https://github.com/Karthikeyareddy183/Fashion-Product-Classifier)]
 
